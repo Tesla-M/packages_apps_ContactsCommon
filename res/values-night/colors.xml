@@ -21,7 +21,7 @@
     <color name="focus_color">#44ff0000</color>
 
     <!-- Color of ripples used for views with dark backgrounds -->
-    <color name="ripple_material_dark">#a0ffffff</color>
+    <color name="ripple_material_dark">#a033b5e5</color>
 
     <!-- Divider color for header separator -->
     <color name="primary_text_color">@color/dialtacts_primary_text_color</color>
@@ -29,13 +29,13 @@
     <color name="secondary_text_color">@color/dialtacts_secondary_text_color</color>
 
     <!-- Text color for section header. -->
-    <color name="section_header_text_color">#b3ffffff</color>
+    <color name="section_header_text_color">#b333b5e5</color>
 
     <!-- Divider color for header separator -->
-    <color name="main_header_separator_color">#1fffffff</color>
+    <color name="main_header_separator_color">#1f33b5e5</color>
 
     <!-- Divider color for header separator -->
-    <color name="secondary_header_separator_color">#0fffffff</color>
+    <color name="secondary_header_separator_color">#0f33b5e5</color>
 
     <!-- Color of the theme of the People app -->
     <color name="people_app_theme_color">#363636</color>
@@ -50,13 +50,13 @@
     <color name="dialtacts_primary_text_color">#ffffff</color>
 
     <!-- Secondary text color in the Phone app -->
-    <color name="dialtacts_secondary_text_color">#b3ffffff</color>
+    <color name="dialtacts_secondary_text_color">#b333b5e5</color>
 
     <!--  Color of the semi-transparent shadow box on contact tiles -->
     <color name="contact_tile_shadow_box_color">#7F000000</color>
 
     <!--  Color of the status message for starred contacts in the People app -->
-    <color name="people_contact_tile_status_color">#ffffff</color>
+    <color name="people_contact_tile_status_color">#33b5e5</color>
 
     <color name="shortcut_overlay_text_background">#7f000000</color>
 
@@ -116,7 +116,7 @@
 
     <color name="letter_tile_default_color">@*android:color/material_grey_800</color>
 
-    <color name="letter_tile_font_color">#ffffff</color>
+    <color name="letter_tile_font_color">#33b5e5</color>
 
     <!-- Background color of action bars. Ensure this stays in sync with packages/Telephony
          actionbar_background_color. -->
